@@ -2,7 +2,7 @@
 name: MM월 DD일 알고리즘 문제 추천
 about: "\b함께 풀어보면 좋을 것 같은 문제가 있으면 추천해주세요"
 title: 'Docs: Add new request problem set'
-labels: ''
+labels: question
 assignees: ''
 
 ---

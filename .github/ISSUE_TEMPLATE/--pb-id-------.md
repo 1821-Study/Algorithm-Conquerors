@@ -2,7 +2,7 @@
 name: "#{PB id} 수정 요청"
 about: 수정해야 하는 부분을 요청해주세요!
 title: "\bChore: Request #{PB id} to edit "
-labels: ''
+labels: bug
 assignees: ''
 
 ---
