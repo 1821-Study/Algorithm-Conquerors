@@ -2,7 +2,7 @@
 name: 'Issue: MM월 DD일 알고리즘 문제 추천'
 about: "{ } 사이의 값을 채워서 제출해주세요!"
 title: 'Docs: Add new request problem set'
-labels: ''
+labels: problem set
 assignees: ''
 
 ---
