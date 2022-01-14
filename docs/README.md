@@ -17,19 +17,68 @@ git push -u origin {깃허브ID}
 ```bash
 git add {matcher}
 git commit -m "Feat: Add solution of #31 - 1"
-git push origin {깃허브ID}
+git pull origin master
+git push 
 ```
 
 #### Pull Request
+* `New` 버튼 누르기
 
+![PR 만들기](./github/PR/1.png)
+
+
+* `계정 브랜치`에서 `master`로 `Pull request`
+
+![PR 만들기](./github/PR/2.png)
+
+* PR 템플릿에 맞춰 작성하기
+```markdown
+## #{id} 문제풀이
+
+## 세부 사항
+- [ ] #{id} `상`
+- [ ] #{id} `중`
+- [ ] #{id} `하`
+
+## 관련 이슈
+- #{id}
+
+## 코드
+
+
+
+## 참고
+> Reference는 옵션입니다! 참고사항이 없을 시 모두 지워주세요
+- {설명} : {url}
+```
+
+* 해결에 사용한 언어 태그 `Labels` 에 달아주기
+
+![PR 만들기](./github/PR/3.png)
 
 #### Merge 기준
-- 모든 참가자 리뷰 완료(최소 같은 언어 사용자)
-- PR 후 최대 2일 뒤
+- PR 후 1일 뒤
+- 제출상 문제가 없을 때
+- 저장소 관리가가 직접
 > 리뷰를 좀 더 원하시는 분들은 요청해주시면 됩니다.
 
 ## 리뷰하는 방법
-상대방이 PR한 코드를 보고 느낀점이나 보완해야할 점을 자유롭게 표현하세요!
+- PR을 선택하기
+
+![PR을 선택하기](./github/code_review/1.png)
+
+- `Files chnaged` 를 선택한다.
+
+![files changed 선택하기](./github/code_review/2.png)
+
+- 수정된 파일을 확인하며 `Viewed` 버튼을 클릭해준다.
+
+![Viewed 버튼을 클릭](./github/code_review/3.png)
+
+- 코멘트, 개선, 수정 요청 등을 `markdown` 포맷의 코멘트와 체출한다.
+
+![코멘트와 체출](./github/code_review/4.png)
+
 
 ## Tip
 - 한 문제를 여러가지 방법으로 풀도록 탐구해보기
