@@ -15,7 +15,7 @@
 |        |   주제     |                     `상`                     |                         `중`                          |                       `하`                          |  비고 |
 | :----- |---------: | :------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------: | ---- |
 | 01/12  |           | [안테나](https://www.acmicpc.net/problem/18310) |  [ATM](https://www.acmicpc.net/problem/11399)  |  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | 가오픈입니당 |
-| 01/15  |   반복문    | [보물섬](https://www.acmicpc.net/problem/2589) |  [별 찍기 - 22](https://www.acmicpc.net/problem/11399)  |  [별 찍기 - 7](https://www.acmicpc.net/problem/2444)  |  |
+| 01/15  |   반복문    | [보물섬](https://www.acmicpc.net/problem/2589) |  [별 찍기 - 22](https://www.acmicpc.net/problem/10997)  |  [별 찍기 - 7](https://www.acmicpc.net/problem/2444)  |  |
 
 
 
