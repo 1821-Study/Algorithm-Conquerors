@@ -15,6 +15,7 @@
 |        |   주제     |                     `상`                     |                         `중`                          |                       `하`                          |  비고 |
 | :----- |---------: | :------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------: | ---- |
 | 01/12  |           | [안테나](https://www.acmicpc.net/problem/18310) |  [ATM](https://www.acmicpc.net/problem/11399)  |  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | 가오픈입니당 |
+| 01/15  |   반복문    | [보물섬](https://www.acmicpc.net/problem/2589) |  [별 찍기 - 22](https://www.acmicpc.net/problem/10997)  |  [별 찍기 - 7](https://www.acmicpc.net/problem/2444)  |  |
 
 
 
@@ -27,5 +28,6 @@
     <td align="center"><a href="https://github.com/ahnjongin"><img src="https://avatars.githubusercontent.com/u/80513276?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ahnjongin</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=goodtime1998" /></sub></a><br /></td>
     <td align="center"><a href="https://github.com/kimyeheun"><img src="https://avatars.githubusercontent.com/u/81765156?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kimyeheun</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yeheun004" /></sub></a><br /></td>
     <td align="center"><a href="https://github.com/yj010306"><img src="https://avatars.githubusercontent.com/u/97457418?v=4?s=100" width="100px;" alt=""/><br /><sub><b>yj010306</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=skyyj123" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/sa11k"><img src="https://avatars.githubusercontent.com/u/63536606?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sa11k</b><br></sub></a><br /></td>
   </tr>
 </table>
