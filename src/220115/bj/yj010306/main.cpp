@@ -5,7 +5,7 @@ int main()
 	int n;
 	int star_cnt=1;
 
-	scanf_s("%d", &n);
+	scanf("%d", &n);
 
 	for (int i = n-1; i >= 0; i--)
 	{
