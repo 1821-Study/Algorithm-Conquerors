@@ -1,4 +1,4 @@
-floor=int(input())
+floor = int(input())
 for i in range(1, floor+1):
     print(" "*(floor-i), end="")
     print("*"*(2*i-1))
