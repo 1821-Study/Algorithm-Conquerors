@@ -14,10 +14,52 @@
 
 |        |   주제     |                     `상`                     |                         `중`                          |                       `하`                          |  비고 |
 | :----- |---------: | :------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------: | ---- |
-| 01/12  |           | [안테나](https://www.acmicpc.net/problem/18310) |  [ATM](https://www.acmicpc.net/problem/11399)  |  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | 가오픈입니당 |
+| 01/12  |           | [안테나](https://www.acmicpc.net/problem/18310) |  [ATM](https://www.acmicpc.net/problem/11399)  |  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | |
 | 01/15  |   반복문    | [보물섬](https://www.acmicpc.net/problem/2589) |  [별 찍기 - 22](https://www.acmicpc.net/problem/10997)  |  [별 찍기 - 7](https://www.acmicpc.net/problem/2444)  |  |
 
 
+## 🧑🏽‍💻 Situation board
+
+<table>
+  <thead>
+    <th></th>
+    <th><a href="https://github.com/Dltmd202">Dltmd202</a></th>
+    <th><a href="https://github.com/SongSiWoon">SongSiWoon</a></th>
+    <th><a href="https://github.com/ahnjongin">ahnjongin</a></th>
+    <th><a href="https://github.com/kimyeheun">kimyeheun</a></th>
+    <th><a href="https://github.com/yj010306">yj010306</a></th>
+    <th><a href="https://github.com/sa11k">sa11k</a></th>
+  </thead>
+<tbody>
+  <tr>
+    <td rowspan=4>01/15</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 
 ## 🙋🏻‍♂️ Contributors
 
