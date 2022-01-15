@@ -1,7 +1,7 @@
 ---
 name: MM월 DD일 알고리즘 문제!
 about: MM월 DD일 문제 등록 템플릿입니다!
-title: 'Docs: Add new MM/DD problem set'
+title: MM/DD Problem set
 labels: problem set
 assignees: Dltmd202
 
