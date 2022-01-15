@@ -2,9 +2,9 @@
 
 #### 폴더 구조
 - `src/{YYMMDD}/{알고리즘출처}/{문제 번호}/{깃허브ID}/[mM]ain.${type}` 형식입니다.  
-- 예시 : `src/220112/LeetCode/1/Dltmd202/Main.java`
-- 예시 : `src/220113/BaekJoon/1001/Dltmd202/main.cpp`
-- 예시 : `src/220114/Programmers/42748/Dltmd202/main.py`
+- 예시 : `src/220112/lc/1/Dltmd202/Main.java`
+- 예시 : `src/220113/bj/1001/Dltmd202/main.cpp`
+- 예시 : `src/220114/pr/42748/Dltmd202/main.py`
 
 #### 초기설정 - clone
 ```bash
@@ -16,7 +16,7 @@ git push -u origin {깃허브ID}
 #### 코드 올리기
 ```bash
 git add {matcher}
-git commit -m "Feat: Add solution of #31 - 1"
+git commit -m "Feat: Add solution of #id"
 git pull origin master
 git push 
 ```
