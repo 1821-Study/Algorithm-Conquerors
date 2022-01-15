@@ -1,10 +1,10 @@
 ## 참여방법
 
 #### 폴더 구조
-- `src/{YYMMDD}/{알고리즘출처}/{문제 번호}/{깃허브ID}/[mM]ain.${type}` 형식입니다.  
-- 예시 : `src/220112/lc/1/Dltmd202/Main.java`
-- 예시 : `src/220113/bj/1001/Dltmd202/main.cpp`
-- 예시 : `src/220114/pr/42748/Dltmd202/main.py`
+- `src/{알고리즘출처}/{깃허브ID}/{문제 번호}/[mM]ain.${type}` 형식입니다.  
+- 예시 : `src/BaekJoon/Dltmd202/1001/Main.java`
+- 예시 : `src/Programmers/Dltmd202/1/main.cpp`
+- 예시 : `src/LeetCode/Dltmd202/42748/main.py`
 
 #### 초기설정 - clone
 ```bash
