@@ -17,7 +17,7 @@
 | 01/12  |           | [안테나](https://www.acmicpc.net/problem/18310) |  [ATM](https://www.acmicpc.net/problem/11399)  |  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | |
 | 01/15  |   반복문    | [보물섬](https://www.acmicpc.net/problem/2589) |  [별 찍기 - 22](https://www.acmicpc.net/problem/10997)  |  [별 찍기 - 7](https://www.acmicpc.net/problem/2444)  |  |
 | 01/16  |   재귀    | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) |  [별 찍기 - 10](https://www.acmicpc.net/problem/2447)  |  [팩토리얼](https://www.acmicpc.net/problem/10872)  |  |
-| 01/17  |   재귀    | [별 찍기 - 18](https://www.acmicpc.net/problem/10993) |  [별 찍기 - 10](https://www.acmicpc.net/problem/2447)  |  [피보나치 수](https://www.acmicpc.net/problem/2747)  |  |
+| 01/17  |   재귀    | [별 찍기 - 18](https://www.acmicpc.net/problem/10993) |  [별 찍기 - 10](https://www.acmicpc.net/problem/2447)  |  [피보나치 수 5](https://www.acmicpc.net/problem/10870)  |  |
 
 
 ## 🧑🏽‍💻 Situation board
