@@ -35,7 +35,7 @@
   </thead>
 <tbody>
   <tr>
-    <td rowspan=4>01/15</td>
+    <td rowspan=4>01/16</td>
   </tr>
   <tr>
     <td><a href="src/BaekJoon/Dltmd202/2589/Main.java">Java</a></td>
@@ -62,7 +62,7 @@
     <td></td>
   </tr>
 <tr>
-    <td rowspan=4>01/16</td>
+    <td rowspan=4>01/17</td>
   </tr>
   <tr>
     <td><a href="src/BaekJoon/Dltmd202/2448/Main.java">Java</a></td>
@@ -89,7 +89,7 @@
     <td></td>
   </tr>
 <tr>
-    <td rowspan=4>01/17</td>
+    <td rowspan=4>01/18</td>
   </tr>
   <tr>
     <td><a href="src/BaekJoon/Dltmd202/10993/Main.java">Java</a></td>
@@ -114,6 +114,33 @@
     <td><a href="src/BaekJoon/kimyeheun/2747/main.py">Python</a></td>
     <td><a href="src/BaekJoon/yj010306/10870/main.cpp">C++</a></td>
     <td></td>
+  </tr>
+<tr>
+    <td rowspan=4>01/19</td>
+  </tr>
+  <tr>
+    <td><a href="src/BaekJoon/Dltmd202/13164/Main.java">Java</a></td>
+    <td></td>
+    <td><a href="src/BaekJoon/ahnjongin/13164/main.py">Python</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="src/BaekJoon/ahnjongin/11047/main.py">Python</a></td>
+    <td><a href="src/BaekJoon/kimyeheun/11047/main.py">Python</a></td>
+    <td><a href="src/BaekJoon/yj010306/11047/main.cpp">Python</a></td>
+    <td><a href="src/BaekJoon/sa11k/11047/Main.java">Java</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="src/BaekJoon/SongSiWoon/5585/main.py">Python</a></td>
+    <td></td>
+    <td><a href="src/BaekJoon/kimyeheun/2839/main.py">Python</a>, <a href="src/BaekJoon/kimyeheun/5585/main.py">Python</a></td>
+    <td><a href="src/BaekJoon/yj010306/2839/main.cpp">C++</a>, <a href="src/BaekJoon/yj010306/5585/main.cpp">C++</a></td>
+    <td><a href="src/BaekJoon/sa11k/2839/Main.java">Java</a>, <a href="src/BaekJoon/sa11k/5585/Main.java">Java</a></td>
   </tr>
 </tbody>
 </table>
