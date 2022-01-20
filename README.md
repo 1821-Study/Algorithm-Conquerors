@@ -19,6 +19,7 @@
 | 01/17  |   재귀    | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) |  [별 찍기 - 10](https://www.acmicpc.net/problem/2447)  |  [팩토리얼](https://www.acmicpc.net/problem/10872)  |  |
 | 01/18  |   그리디    | [행복 유치원](https://www.acmicpc.net/problem/13164) |  [동전 0](https://www.acmicpc.net/problem/11047)  |  [설탕 배달](https://www.acmicpc.net/problem/2839),  [거스름돈](https://www.acmicpc.net/problem/5585) | `하` 문제는 두 문제를 풀어주세요! |
 | 01/19  |   브루트포스    | [리모컨](https://www.acmicpc.net/problem/1107) |  [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)  | [블랙잭](https://www.acmicpc.net/problem/2798) | |
+| 01/20  |   백트래킹    | [비숍](https://www.acmicpc.net/problem/1799) |  [N과 M (10)](https://www.acmicpc.net/problem/15664)  | [N과 M (1)](https://www.acmicpc.net/problem/15649) | |
 
 
 ## 🧑🏽‍💻 Situation board
