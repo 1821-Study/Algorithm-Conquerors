@@ -13,9 +13,13 @@
 ## 📗 Study
 
 |        |   주제     |                     `상`                     |                         `중`                          |                       `하`                          |  비고 |
-| :----- |---------: | :------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------: | ---- |
+| :----- |--------- | :------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------: | ---- |
 | 01/12  |           | [안테나](https://www.acmicpc.net/problem/18310) |  [ATM](https://www.acmicpc.net/problem/11399)  |  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | |
-| 01/15  |   반복문    | [보물섬](https://www.acmicpc.net/problem/2589) |  [별 찍기 - 22](https://www.acmicpc.net/problem/10997)  |  [별 찍기 - 7](https://www.acmicpc.net/problem/2444)  |  |
+| 01/16  |   반복문    | [보물섬](https://www.acmicpc.net/problem/2589) |  [별 찍기 - 22](https://www.acmicpc.net/problem/10997)  |  [별 찍기 - 7](https://www.acmicpc.net/problem/2444)  |  |
+| 01/17  |   재귀    | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) |  [별 찍기 - 10](https://www.acmicpc.net/problem/2447)  |  [팩토리얼](https://www.acmicpc.net/problem/10872)  |  |
+| 01/18  |   그리디    | [행복 유치원](https://www.acmicpc.net/problem/13164) |  [동전 0](https://www.acmicpc.net/problem/11047)  |  [설탕 배달](https://www.acmicpc.net/problem/2839),  [거스름돈](https://www.acmicpc.net/problem/5585) | `하` 문제는 두 문제를 풀어주세요! |
+| 01/19  |   브루트포스    | [리모컨](https://www.acmicpc.net/problem/1107) |  [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)  | [블랙잭](https://www.acmicpc.net/problem/2798) | |
+| 01/20  |   백트래킹    | [비숍](https://www.acmicpc.net/problem/1799) |  [N과 M (10)](https://www.acmicpc.net/problem/15664)  | [N과 M (1)](https://www.acmicpc.net/problem/15649) | |
 
 
 ## 🧑🏽‍💻 Situation board
@@ -32,7 +36,7 @@
   </thead>
 <tbody>
   <tr>
-    <td rowspan=4>01/15</td>
+    <td rowspan=4>01/16</td>
   </tr>
   <tr>
     <td><a href="src/BaekJoon/Dltmd202/2589/Main.java">Java</a></td>
@@ -57,6 +61,87 @@
     <td><a href="src/BaekJoon/kimyeheun/2444/main.py">Python</a></td>
     <td><a href="src/BaekJoon/yj010306/2444/main.cpp">C++</a></td>
     <td></td>
+  </tr>
+<tr>
+    <td rowspan=4>01/17</td>
+  </tr>
+  <tr>
+    <td><a href="src/BaekJoon/Dltmd202/2448/Main.java">Java</a></td>
+    <td><a href="src/BaekJoon/SongSiWoon/2448/main.py">Python</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="src/BaekJoon/Dltmd202/2447/Main.java">Java</a>, <a href="src/BaekJoon/Dltmd202/2447/main.py">Python</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="src/BaekJoon/ahnjongin/10872/main.py">Python</a></td>
+    <td><a href="src/BaekJoon/kimyeheun/10872/main.py">Python</a></td>
+    <td><a href="src/BaekJoon/yj010306/10872/main.cpp">C++</a></td>
+    <td></td>
+  </tr>
+<tr>
+    <td rowspan=4>01/18</td>
+  </tr>
+  <tr>
+    <td><a href="src/BaekJoon/Dltmd202/10993/Main.java">Java</a></td>
+    <td><a href="src/BaekJoon/SongSiWoon/10993/main.py">Python</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="src/BaekJoon/Dltmd202/2447/Main.java">Java</a>, <a href="src/BaekJoon/Dltmd202/2447/main.py">Python</a></td>
+    <td><a href="src/BaekJoon/Dltmd202/2447/Main.java">Java</a></td>
+    <td></td>
+    <td><a href="src/BaekJoon/kimyeheun/2447/main.py">Python</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="src/BaekJoon/ahnjongin/10870/main.py">Python</a></td>
+    <td><a href="src/BaekJoon/kimyeheun/2747/main.py">Python</a></td>
+    <td><a href="src/BaekJoon/yj010306/10870/main.cpp">C++</a></td>
+    <td></td>
+  </tr>
+<tr>
+    <td rowspan=4>01/19</td>
+  </tr>
+  <tr>
+    <td><a href="src/BaekJoon/Dltmd202/13164/Main.java">Java</a></td>
+    <td></td>
+    <td><a href="src/BaekJoon/ahnjongin/13164/main.py">Python</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><a href="src/BaekJoon/ahnjongin/11047/main.py">Python</a></td>
+    <td><a href="src/BaekJoon/kimyeheun/11047/main.py">Python</a></td>
+    <td><a href="src/BaekJoon/yj010306/11047/main.cpp">Python</a></td>
+    <td><a href="src/BaekJoon/sa11k/11047/Main.java">Java</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="src/BaekJoon/SongSiWoon/5585/main.py">Python</a></td>
+    <td></td>
+    <td><a href="src/BaekJoon/kimyeheun/2839/main.py">Python</a>, <a href="src/BaekJoon/kimyeheun/5585/main.py">Python</a></td>
+    <td><a href="src/BaekJoon/yj010306/2839/main.cpp">C++</a>, <a href="src/BaekJoon/yj010306/5585/main.cpp">C++</a></td>
+    <td><a href="src/BaekJoon/sa11k/2839/Main.java">Java</a>, <a href="src/BaekJoon/sa11k/5585/Main.java">Java</a></td>
   </tr>
 </tbody>
 </table>
