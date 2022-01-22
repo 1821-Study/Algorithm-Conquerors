@@ -13,4 +13,4 @@ else:
     for y in range(1, len(check)):
         if minni > check[y]:
             minni = check[y]
-print(minni)
+    print(minni)
