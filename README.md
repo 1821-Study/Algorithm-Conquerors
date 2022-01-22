@@ -63,7 +63,7 @@
     <td><a href="src/BaekJoon/ahnjongin/2444/main.py">Python</a></td>
     <td><a href="src/BaekJoon/kimyeheun/2444/main.py">Python</a></td>
     <td><a href="src/BaekJoon/yj010306/2444/main.cpp">C++</a></td>
-    <td></td>
+    <td><a href="src/BaekJoon/sa11k/2442/Main.java">Java</a></td>
   </tr>
 <tr>
     <td rowspan=4>01/16</td>
@@ -186,46 +186,20 @@
   <tr>
     <td></td>
     <td><a href="src/BaekJoon/SongSiWoon/15664/main.py">Python</a></td>
-    <td><a href="src/BaekJoon/ahnjongin/15664/main.py">Python</a></td>
-    <td><a href="src/BaekJoon/kimyeheun/15664/main.py">Python</a></td>
-    <td><a href="src/BaekJoon/yj010306/15664/main.cpp">Python</a></td>
-    <td><a href="src/BaekJoon/sa11k/15664/Main.java">Java</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
-    <td><a href="src/BaekJoon/SongSiWoon/5585/main.py">Python</a></td>
     <td></td>
-    <td><a href="src/BaekJoon/kimyeheun/2839/main.py">Python</a>, <a href="src/BaekJoon/kimyeheun/5585/main.py">Python</a></td>
-    <td><a href="src/BaekJoon/yj010306/2839/main.cpp">C++</a>, <a href="src/BaekJoon/yj010306/5585/main.cpp">C++</a></td>
-    <td><a href="src/BaekJoon/sa11k/2839/Main.java">Java</a>, <a href="src/BaekJoon/sa11k/5585/Main.java">Java</a></td>
+    <td><a href="src/BaekJoon/ahnjongin/15649/main.py">Python</a></td>
+    <td><a href="src/BaekJoon/kimyeheun/15649/main.py">Python</a></td>
+    <td></td>
+    <td></td>
   </tr>
 <tr>
-    <td rowspan=4>01/19</td>
-  </tr>
-  <tr>
-    <td><a href="src/BaekJoon/Dltmd202/1107/Main.java">Java</a></td>
-    <td><a href="src/BaekJoon/SongSiWoon/1107/Main.java">Java</a>, <a href="src/BaekJoon/SongSiWoon/1107/main.py">Python</a>,</td>
-    <td><a href="src/BaekJoon/ahnjongin/1107/main.py">Python</a></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="src/BaekJoon/SongSiWoon/1018/Main.java">Java</a></td>
-    <td></td>
-    <td><a href="src/BaekJoon/kimyeheun/1018/main.py">Python</a></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><a href="src/BaekJoon/kimyeheun/2798/main.py">Python</a></td>
-    <td><a href="src/BaekJoon/yj010306/2798/main.cpp">C++</a></td>
-    <td><a href="src/BaekJoon/sa11k/2798/Main.java">Java</a></td>
-  </tr>
 </tbody>
 </table>
 
