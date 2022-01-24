@@ -135,7 +135,7 @@
     <td></td>
     <td><a href="src/BaekJoon/ahnjongin/11047/main.py">Python</a></td>
     <td><a href="src/BaekJoon/kimyeheun/11047/main.py">Python</a></td>
-    <td><a href="src/BaekJoon/yj010306/11047/main.cpp">Python</a></td>
+    <td><a href="src/BaekJoon/yj010306/11047/main.cpp">C++</a></td>
     <td><a href="src/BaekJoon/sa11k/11047/Main.java">Java</a></td>
   </tr>
   <tr>
@@ -185,7 +185,7 @@
   </tr>
   <tr>
     <td></td>
-    <td><a href="src/BaekJoon/SongSiWoon/15664/main.py">Python</a></td>
+    <td><a href="src/BaekJoon/SongSiWoon/15664/Main.java">Java</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -225,6 +225,33 @@
     <td><a href="src/BaekJoon/kimyeheun/1003/main.py">Python</a></td>
     <td><a href="src/BaekJoon/yj010306/1003/source.cpp">C++</a></td>
     <td><a href="src/BaekJoon/sa11k/1003/Main.java">Java</a></td>
+  </tr>
+<tr>
+<td rowspan=4>01/22</td>
+  </tr>
+  <tr>
+    <td><a href="src/BaekJoon/Dltmd202/2493/Main.java">Java</a></td>
+    <td><a href="src/BaekJoon/SongSiWoon/2493/Main.java">Java</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="src/BaekJoon/SongSiWoon/9012/Main.java">Java</a></td>
+    <td><a href="src/BaekJoon/ahnjongin/9012/main.py">Python</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="src/BaekJoon/kimyeheun/10828/main.py">Python</a></td>
+    <td><a href="src/BaekJoon/yj010306/10828/main.cpp">C++</a></td>
+    <td><a href="src/BaekJoon/sa11k/10828/Main.java">Java</a></td>
   </tr>
 <tr>
 </tbody>
