@@ -24,7 +24,7 @@
 | 01/21  |   DP  | [평범한 배낭](https://www.acmicpc.net/problem/12865) | [타일링](https://www.acmicpc.net/problem/1793)  | [피보나치 함수](https://www.acmicpc.net/problem/1003) | |
 | 01/22  | 자료구조-스택 | [탑](https://www.acmicpc.net/problem/2493) |  [괄호](https://www.acmicpc.net/problem/9012)  | [스택](https://www.acmicpc.net/problem/10828) | |
 | 01/24  | 자료구조-큐 | [Condition of deep sleep](https://www.acmicpc.net/problem/11577) |  [트럭](https://www.acmicpc.net/problem/13335)  | [큐 2](https://www.acmicpc.net/problem/18258) | |
-| 01/25  | 자료구조-큐 | [로봇](https://www.acmicpc.net/problem/1726) |  [토마토](https://www.acmicpc.net/problem/7576)  | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | |
+| 01/25  | 그래프  | [로봇](https://www.acmicpc.net/problem/1726) |  [토마토](https://www.acmicpc.net/problem/7576)  | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | |
 
 
 ## 🧑🏽‍💻 Situation board
