@@ -25,6 +25,8 @@
 | 01/22  | 자료구조-스택 | [탑](https://www.acmicpc.net/problem/2493) |  [괄호](https://www.acmicpc.net/problem/9012)  | [스택](https://www.acmicpc.net/problem/10828) | |
 | 01/24  | 자료구조-큐 | [Condition of deep sleep](https://www.acmicpc.net/problem/11577) |  [트럭](https://www.acmicpc.net/problem/13335)  | [큐 2](https://www.acmicpc.net/problem/18258) | |
 | 01/25  | 그래프  | [로봇](https://www.acmicpc.net/problem/1726) |  [토마토](https://www.acmicpc.net/problem/7576)  | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | |
+| 01/26  | 백트래킹  | [캠프준비](https://www.acmicpc.net/problem/16938) | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)  | [N과 M (10)](https://www.acmicpc.net/problem/15664) | |
+
 
 
 ## 🧑🏽‍💻 Situation board
