@@ -16,6 +16,7 @@ public class Main {
     private static int N;
     private static int M;
 
+
     public static void main(String[] args) throws IOException {
         StringTokenizer st = new StringTokenizer(br.readLine());
         N = Integer.parseInt(st.nextToken());
