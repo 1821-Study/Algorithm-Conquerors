@@ -23,6 +23,10 @@
 | 01/20  |   백트래킹    | [비숍](https://www.acmicpc.net/problem/1799) |  [N과 M (10)](https://www.acmicpc.net/problem/15664)  | [N과 M (1)](https://www.acmicpc.net/problem/15649) | |
 | 01/21  |   DP  | [평범한 배낭](https://www.acmicpc.net/problem/12865) | [타일링](https://www.acmicpc.net/problem/1793)  | [피보나치 함수](https://www.acmicpc.net/problem/1003) | |
 | 01/22  | 자료구조-스택 | [탑](https://www.acmicpc.net/problem/2493) |  [괄호](https://www.acmicpc.net/problem/9012)  | [스택](https://www.acmicpc.net/problem/10828) | |
+| 01/24  | 자료구조-큐 | [Condition of deep sleep](https://www.acmicpc.net/problem/11577) |  [트럭](https://www.acmicpc.net/problem/13335)  | [큐 2](https://www.acmicpc.net/problem/18258) | |
+| 01/25  | 그래프  | [로봇](https://www.acmicpc.net/problem/1726) |  [토마토](https://www.acmicpc.net/problem/7576)  | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | |
+| 01/26  | 백트래킹  | [캠프준비](https://www.acmicpc.net/problem/16938) | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)  | [N과 M (10)](https://www.acmicpc.net/problem/15664) | |
+
 
 
 ## 🧑🏽‍💻 Situation board
@@ -65,7 +69,7 @@
     <td><a href="src/BaekJoon/yj010306/2444/main.cpp">C++</a></td>
     <td><a href="src/BaekJoon/sa11k/2442/Main.java">Java</a></td>
   </tr>
-<tr>
+  <tr>
     <td rowspan=4>01/16</td>
   </tr>
   <tr>
@@ -92,8 +96,8 @@
     <td><a href="src/BaekJoon/yj010306/10872/main.cpp">C++</a></td>
     <td><a href="src/BaekJoon/sa11k/10872/Main.java">Java</a></td>
   </tr>
-<tr>
-<td rowspan=4>01/17</td>
+  <tr>
+    <td rowspan=4>01/17</td>
   </tr>
   <tr>
     <td><a href="src/BaekJoon/Dltmd202/10993/Main.java">Java</a></td>
@@ -119,8 +123,8 @@
     <td><a href="src/BaekJoon/yj010306/10870/main.cpp">C++</a></td>
     <td><a href="src/BaekJoon/sa11k/10870/Main.java">Java</a></td>
   </tr>
-<tr>
-<td rowspan=4>01/18</td>
+  <tr>
+    <td rowspan=4>01/18</td>
   </tr>
   <tr>
     <td><a href="src/BaekJoon/Dltmd202/13164/Main.java">Java</a></td>
@@ -146,7 +150,7 @@
     <td><a href="src/BaekJoon/yj010306/2839/main.cpp">C++</a>, <a href="src/BaekJoon/yj010306/5585/main.cpp">C++</a></td>
     <td><a href="src/BaekJoon/sa11k/2839/Main.java">Java</a>, <a href="src/BaekJoon/sa11k/5585/Main.java">Java</a></td>
   </tr>
-<tr>
+  <tr>
     <td rowspan=4>01/19</td>
   </tr>
   <tr>
@@ -175,6 +179,7 @@
   </tr>
   <tr>
     <td rowspan=4>01/20</td>
+  </tr>
   <tr>
     <td><a href="src/BaekJoon/Dltmd202/1799/Main.java">Java</a></td>
     <td><a href="src/BaekJoon/SongSiWoon/9663/Main.java">Java</a></td>
@@ -199,9 +204,10 @@
     <td></td>
     <td></td>
   </tr>
-<tr>
-<tr>
+  <tr>
+  <tr>
     <td rowspan=4>01/21</td>
+  </tr>
   <tr>
     <td><a href="src/BaekJoon/Dltmd202/12865/Main.java">Java</a></td>
     <td></td>
@@ -226,8 +232,8 @@
     <td><a href="src/BaekJoon/yj010306/1003/source.cpp">C++</a></td>
     <td><a href="src/BaekJoon/sa11k/1003/Main.java">Java</a></td>
   </tr>
-<tr>
-<td rowspan=4>01/22</td>
+  <tr>
+    <td rowspan=4>01/22</td>
   </tr>
   <tr>
     <td><a href="src/BaekJoon/Dltmd202/2493/Main.java">Java</a></td>
