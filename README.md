@@ -27,6 +27,8 @@
 | 01/25  | 그래프  | [로봇](https://www.acmicpc.net/problem/1726) |  [토마토](https://www.acmicpc.net/problem/7576)  | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | |
 | 01/26  | 백트래킹  | [캠프준비](https://www.acmicpc.net/problem/16938) | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)  | [N과 M (10)](https://www.acmicpc.net/problem/15664) | |
 | 01/27  | DP  |  [합분해](https://www.acmicpc.net/problem/2225) |  [2xn 타일링](https://www.acmicpc.net/problem/11726)  | [계단 오르기](https://www.acmicpc.net/problem/2579) | |
+| 01/28  | 자료구조-우선순위 큐  |  [카드 정렬하기](https://www.acmicpc.net/problem/1715) |  [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)  |  [최소 힙](https://www.acmicpc.net/problem/1927) | |
+| 01/29  | 그래프 탐색  |  [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) |  [나이트의 이동](https://www.acmicpc.net/problem/7562)  |  [미로 탐색](https://www.acmicpc.net/problem/2178) | |
 
 
 
@@ -306,6 +308,60 @@
     <td></td>
   </tr>
   <tr con="https://www.acmicpc.net/problem/18258">
+    <td>·</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan=4>01/26</td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/16938">
+    <td><a href="src/BaekJoon/Dltmd202/16938/Main.java">Java</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/14888">
+    <td>.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/15664">
+    <td>·</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan=4>01/27</td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/2225">
+    <td><a href="src/BaekJoon/Dltmd202/2225/Main.java">Java</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/11726">
+    <td></td>
+    <td><a href="src/BaekJoon/SongSiWoon/11726/Main.java">Java</a</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/1927">
     <td>·</td>
     <td></td>
     <td></td>
