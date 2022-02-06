@@ -124,6 +124,7 @@ public class Main {
                 }
             }
         }
+
         return sure ? res: res - 1;
     }
 
