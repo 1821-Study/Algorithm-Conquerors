@@ -12,23 +12,30 @@
 
 ## 📗 Study
 
-|        |   주제     |                     `상`                     |                         `중`                          |                       `하`                          |  비고 |
-| :----- |--------- | :------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------: | ---- |
-| 01/12  |           | [안테나](https://www.acmicpc.net/problem/18310) |  [ATM](https://www.acmicpc.net/problem/11399)  |  [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | |
-| 01/15  |   반복문    | [보물섬](https://www.acmicpc.net/problem/2589) |  [별 찍기 - 22](https://www.acmicpc.net/problem/10997)  |  [별 찍기 - 7](https://www.acmicpc.net/problem/2444)  |  |
-| 01/16  |   재귀    | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) |  [별 찍기 - 10](https://www.acmicpc.net/problem/2447)  |  [팩토리얼](https://www.acmicpc.net/problem/10872)  |  |
-| 01/17  |   재귀    | [별 찍기 - 18](https://www.acmicpc.net/problem/10993) |  [별 찍기 - 10](https://www.acmicpc.net/problem/2447)  |  [피보나치 수 5](https://www.acmicpc.net/problem/10870)  |  |
-| 01/18  |   그리디    | [행복 유치원](https://www.acmicpc.net/problem/13164) |  [동전 0](https://www.acmicpc.net/problem/11047)  |  [설탕 배달](https://www.acmicpc.net/problem/2839),  [거스름돈](https://www.acmicpc.net/problem/5585) | `하` 문제는 두 문제를 풀어주세요! |
-| 01/19  |   브루트포스    | [리모컨](https://www.acmicpc.net/problem/1107) |  [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)  | [블랙잭](https://www.acmicpc.net/problem/2798) | |
-| 01/20  |   백트래킹    | [비숍](https://www.acmicpc.net/problem/1799) |  [N과 M (10)](https://www.acmicpc.net/problem/15664)  | [N과 M (1)](https://www.acmicpc.net/problem/15649) | |
-| 01/21  |   DP  | [평범한 배낭](https://www.acmicpc.net/problem/12865) | [타일링](https://www.acmicpc.net/problem/1793)  | [피보나치 함수](https://www.acmicpc.net/problem/1003) | |
-| 01/22  | 자료구조-스택 | [탑](https://www.acmicpc.net/problem/2493) |  [괄호](https://www.acmicpc.net/problem/9012)  | [스택](https://www.acmicpc.net/problem/10828) | |
-| 01/24  | 자료구조-큐 | [Condition of deep sleep](https://www.acmicpc.net/problem/11577) |  [트럭](https://www.acmicpc.net/problem/13335)  | [큐 2](https://www.acmicpc.net/problem/18258) | |
-| 01/25  | 그래프  | [로봇](https://www.acmicpc.net/problem/1726) |  [토마토](https://www.acmicpc.net/problem/7576)  | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | |
-| 01/26  | 백트래킹  | [캠프준비](https://www.acmicpc.net/problem/16938) | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)  | [N과 M (10)](https://www.acmicpc.net/problem/15664) | |
-| 01/27  | DP  |  [합분해](https://www.acmicpc.net/problem/2225) |  [2xn 타일링](https://www.acmicpc.net/problem/11726)  | [계단 오르기](https://www.acmicpc.net/problem/2579) | |
-| 01/28  | 자료구조-우선순위 큐  |  [카드 정렬하기](https://www.acmicpc.net/problem/1715) |  [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)  |  [최소 힙](https://www.acmicpc.net/problem/1927) | |
-| 01/29  | 그래프 탐색  |  [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) |  [나이트의 이동](https://www.acmicpc.net/problem/7562)  |  [미로 탐색](https://www.acmicpc.net/problem/2178) | |
+|       | 주제          |                               `상`                                |                           `중`                            |                                             `하`                                              | 비고                   |
+|:------|-------------|:----------------------------------------------------------------:|:--------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|----------------------|
+| 01/12 |             |           [안테나](https://www.acmicpc.net/problem/18310)           |       [ATM](https://www.acmicpc.net/problem/11399)       |                        [일곱 난쟁이](https://www.acmicpc.net/problem/2309)                        |                      |
+| 01/15 | 반복문         |           [보물섬](https://www.acmicpc.net/problem/2589)            |    [별 찍기 - 22](https://www.acmicpc.net/problem/10997)    |                       [별 찍기 - 7](https://www.acmicpc.net/problem/2444)                       |                      |
+| 01/16 | 재귀          |        [별 찍기 - 11](https://www.acmicpc.net/problem/2448)         |    [별 찍기 - 10](https://www.acmicpc.net/problem/2447)     |                        [팩토리얼](https://www.acmicpc.net/problem/10872)                         |                      |
+| 01/17 | 재귀          |        [별 찍기 - 18](https://www.acmicpc.net/problem/10993)        |    [별 찍기 - 10](https://www.acmicpc.net/problem/2447)     |                      [피보나치 수 5](https://www.acmicpc.net/problem/10870)                       |                      |
+| 01/18 | 그리디         |         [행복 유치원](https://www.acmicpc.net/problem/13164)          |      [동전 0](https://www.acmicpc.net/problem/11047)       | [설탕 배달](https://www.acmicpc.net/problem/2839),  [거스름돈](https://www.acmicpc.net/problem/5585) | `하` 문제는 두 문제를 풀어주세요! |
+| 01/19 | 브루트포스       |           [리모컨](https://www.acmicpc.net/problem/1107)            |    [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)    |                         [블랙잭](https://www.acmicpc.net/problem/2798)                          |                      |
+| 01/20 | 백트래킹        |            [비숍](https://www.acmicpc.net/problem/1799)            |    [N과 M (10)](https://www.acmicpc.net/problem/15664)    |                      [N과 M (1)](https://www.acmicpc.net/problem/15649)                       |                      |
+| 01/21 | DP          |         [평범한 배낭](https://www.acmicpc.net/problem/12865)          |       [타일링](https://www.acmicpc.net/problem/1793)        |                       [피보나치 함수](https://www.acmicpc.net/problem/1003)                        |                      |
+| 01/22 | 자료구조-스택     |            [탑](https://www.acmicpc.net/problem/2493)             |        [괄호](https://www.acmicpc.net/problem/9012)        |                         [스택](https://www.acmicpc.net/problem/10828)                          |                      |
+| 01/24 | 자료구조-큐      | [Condition of deep sleep](https://www.acmicpc.net/problem/11577) |       [트럭](https://www.acmicpc.net/problem/13335)        |                         [큐 2](https://www.acmicpc.net/problem/18258)                         |                      |
+| 01/25 | 그래프         |            [로봇](https://www.acmicpc.net/problem/1726)            |       [토마토](https://www.acmicpc.net/problem/7576)        |                       [DFS와 BFS](https://www.acmicpc.net/problem/1260)                       |                      |
+| 01/26 | 백트래킹        |          [캠프준비](https://www.acmicpc.net/problem/16938)           |    [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)     |                      [N과 M (10)](https://www.acmicpc.net/problem/15664)                      |                      |
+| 01/27 | DP          |           [합분해](https://www.acmicpc.net/problem/2225)            |     [2xn 타일링](https://www.acmicpc.net/problem/11726)     |                        [계단 오르기](https://www.acmicpc.net/problem/2579)                        |                      |
+| 01/28 | 자료구조-우선순위 큐 |         [카드 정렬하기](https://www.acmicpc.net/problem/1715)          |    [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)     |                         [최소 힙](https://www.acmicpc.net/problem/1927)                         |                      |
+| 01/29 | 그래프 탐색      |         [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)          |     [나이트의 이동](https://www.acmicpc.net/problem/7562)      |                        [미로 탐색](https://www.acmicpc.net/problem/2178)                         |                      |
+| 02/04 | 이분 탐색       |          [K번째 수](https://www.acmicpc.net/problem/1300)           |     [숫자 카드 2](https://www.acmicpc.net/problem/10816)     |                         [수 찾기](https://www.acmicpc.net/problem/1920)                         |                      |
+| 02/05 | 소수 판정       |          [신기한 소수](https://www.acmicpc.net/problem/2023)          |      [소인수분해](https://www.acmicpc.net/problem/11653)      |                          [소수](https://www.acmicpc.net/problem/2581)                          |                      |
+| 02/06 | 브루트포스       |          [연구소 3](https://www.acmicpc.net/problem/17142)          |     [차이를 최대로](https://www.acmicpc.net/problem/10819)     |                        [영화감독 숌](https://www.acmicpc.net/problem/1436)                        |                      |
+| 02/07 | 투 포인터       |         [소수의 연속합](https://www.acmicpc.net/problem/1644)          |      [수 고르기](https://www.acmicpc.net/problem/2230)       |                        [두 수의 합](https://www.acmicpc.net/problem/3273)                        |                      |
+| 02/08 | DP          |        [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)         | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) |                        [계단 오르기](https://www.acmicpc.net/problem/2579)                        |                      |
+| 02/09 | 최단거리 - 다익스트라 |        [미확인 도착지](https://www.acmicpc.net/problem/9370)         | [최소비용 구하기](https://www.acmicpc.net/problem/1916) |                        [최단경로](https://www.acmicpc.net/problem/1753)                        |                      |
+| 02/10 | 분리집합      |        [선분 그룹](https://www.acmicpc.net/problem/2162)         | [중량제한](https://www.acmicpc.net/problem/1939) |                        [집합의 표현](https://www.acmicpc.net/problem/1717)                        |                      |
 
 
 
@@ -355,13 +362,178 @@
   </tr>
   <tr con="https://www.acmicpc.net/problem/11726">
     <td></td>
-    <td><a href="src/BaekJoon/SongSiWoon/11726/Main.java">Java</a</td>
+    <td><a href="src/BaekJoon/SongSiWoon/11726/Main.java">Java</a></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr con="https://www.acmicpc.net/problem/1927">
+    <td>·</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan=4>01/28</td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/2225">
+    <td><a href="src/BaekJoon/Dltmd202/1715/Main.java">Java</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/11726">
+    <td>.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/1927">
+    <td>·</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan=4>01/29</td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/1937">
+    <td><a href="src/BaekJoon/Dltmd202/1937/Main.java">Java</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/7562">
+    <td></td>
+    <td><a href="src/BaekJoon/SongSiWoon/7562/Main.java">Java</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/2178">
+    <td>·</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan=4>02/04</td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/1300">
+    <td><a href="src/BaekJoon/Dltmd202/1300/Main.java">Java</a></td>
+    <td><a href="src/BaekJoon/SongSiWoon/1300/Main.java">Java</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/10816">
+    <td></td>
+    <td><a href="src/BaekJoon/SongSiWoon/7562/Main.java">Java</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/1920">
+    <td>·</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="src/BaekJoon/yj010306/1920/main.cpp">C++</a></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td rowspan=4>02/05</td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/2023">
+    <td><a href="src/BaekJoon/Dltmd202/2023/Main.java">Java</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/10816">
+    <td>.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><a href="src/BaekJoon/sa11k/11653/Main.java">Java</a></td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/1920">
+    <td>·</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td rowspan=4>02/06</td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/2023">
+    <td><a href="src/BaekJoon/Dltmd202/17142/Main.java">Java</a></td>
+    <td><a href="src/BaekJoon/SongSiWoon/17142/Main.java">Java</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/10816">
+    <td>.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/1920">
+    <td>·</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+<tr>
+    <td rowspan=4>02/07</td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/2023">
+    <td><a href="src/BaekJoon/Dltmd202/1644/Main.java">Java</a></td>
+    <td><a href="src/BaekJoon/SongSiWoon/17142/Main.java">Java</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/10816">
+    <td>.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr con="https://www.acmicpc.net/problem/1920">
     <td>·</td>
     <td></td>
     <td></td>
