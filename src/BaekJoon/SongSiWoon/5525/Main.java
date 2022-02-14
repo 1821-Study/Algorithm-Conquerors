@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Main {
-
     private static int N;
     private static int len;
     private static String string;
