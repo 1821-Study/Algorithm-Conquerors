@@ -37,6 +37,7 @@ public class Main {
                     return 2;
                 }
             }
+
             left++;
             right--;
         }
