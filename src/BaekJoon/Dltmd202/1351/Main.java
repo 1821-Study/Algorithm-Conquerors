@@ -26,5 +26,6 @@ public class Main {
         long right = getInfinitySequence(a / Q);
         dp.put(a, left + right);
         return dp.get(a);
+
     }
 }
