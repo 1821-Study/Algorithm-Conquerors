@@ -10,7 +10,25 @@
 - 자신이 사용하고 싶은 언어로 풀이
 - [Github 활용](./docs)
 
+
+## 🙋🏻‍♂️ Participants
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Dltmd202"><img src="https://avatars.githubusercontent.com/u/75921696?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dltmd202</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bat5273" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/SongSiWoon"><img src="https://avatars.githubusercontent.com/u/82366330?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SongSiWoon</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=songsi" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ahnjongin"><img src="https://avatars.githubusercontent.com/u/80513276?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ahnjongin</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=goodtime1998" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/kimyeheun"><img src="https://avatars.githubusercontent.com/u/81765156?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kimyeheun</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yeheun004" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/yj010306"><img src="https://avatars.githubusercontent.com/u/97457418?v=4?s=100" width="100px;" alt=""/><br /><sub><b>yj010306</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=skyyj123" /></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/sa11k"><img src="https://avatars.githubusercontent.com/u/63536606?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sa11k</b><br></sub></a><br /></td>
+  </tr>
+</table>
+
+
 ## 📗 Study
+
+<details>
+<summary><h3>2021-겨울</h3></summary>
 
 |       | 주제          |                               `상`                                |                           `중`                            |                                             `하`                                              | 비고                   |
 |:------|-------------|:----------------------------------------------------------------:|:--------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|----------------------|
@@ -37,11 +55,19 @@
 | 02/09 | 최단거리 - 다익스트라 |        [미확인 도착지](https://www.acmicpc.net/problem/9370)         | [최소비용 구하기](https://www.acmicpc.net/problem/1916) |                        [최단경로](https://www.acmicpc.net/problem/1753)                        |                      |
 | 02/10 | 분리집합      |        [선분 그룹](https://www.acmicpc.net/problem/2162)         | [중량제한](https://www.acmicpc.net/problem/1939) |                        [집합의 표현](https://www.acmicpc.net/problem/1717)                        |                      |
 
+</details>
+
+### 2022-여름
+
+| 데드라인 | 주제                                              |
+|------|-------------------------------------------------|
+ | 7월   | [solved.ac 2 클래스 문제](https://solved.ac/class/2) | 
+ | 8월   | [solved.ac 3 클래스 문제](https://solved.ac/class/3) | 
 
 
 ## 🧑🏽‍💻 Situation board
 <details>
-<summary>2021-겨울</summary>
+<summary><h3>2021-겨울</h3></summary>
 <table>
   <thead>
     <th></th>
@@ -546,15 +572,13 @@
 </table>
 </details>
 
-## 🙋🏻‍♂️ Contributors
+### 2022- 여름
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Dltmd202"><img src="https://avatars.githubusercontent.com/u/75921696?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dltmd202</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bat5273" /></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/SongSiWoon"><img src="https://avatars.githubusercontent.com/u/82366330?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SongSiWoon</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=songsi" /></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/ahnjongin"><img src="https://avatars.githubusercontent.com/u/80513276?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ahnjongin</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=goodtime1998" /></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/kimyeheun"><img src="https://avatars.githubusercontent.com/u/81765156?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kimyeheun</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yeheun004" /></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/yj010306"><img src="https://avatars.githubusercontent.com/u/97457418?v=4?s=100" width="100px;" alt=""/><br /><sub><b>yj010306</b><br><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=skyyj123" /></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/sa11k"><img src="https://avatars.githubusercontent.com/u/63536606?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sa11k</b><br></sub></a><br /></td>
-  </tr>
-</table>
+2022년 여름방학 알고리즘 스터디
+
+|                                                    | Dltmd202 | SongSiWoon | ahnjongin | yj010306 | sa11k |
+|----------------------------------------------------|----------|------------|-----------|----------|-------|
+| [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | ✅        |            |           |          | ✅     |
+| [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)  |          |            |           |          |       |
+
+
