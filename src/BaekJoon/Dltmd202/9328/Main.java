@@ -145,6 +145,7 @@ public class Main {
                             q.add(nNode);
                             visited[ny][nx] = true;
 
+
                         } else if('A' <= map[ny][nx] && map[ny][nx] <= 'Z'){
 
                             if(hasKey(now.keySet, map[ny][nx])){
