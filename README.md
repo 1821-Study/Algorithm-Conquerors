@@ -40,7 +40,8 @@
 
 
 ## 🧑🏽‍💻 Situation board
-
+<details>
+<summary>2021-겨울</summary>
 <table>
   <thead>
     <th></th>
@@ -543,6 +544,7 @@
   </tr>
 </tbody>
 </table>
+</details>
 
 ## 🙋🏻‍♂️ Contributors
 
