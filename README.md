@@ -583,7 +583,7 @@
 | [단어 정렬](https://www.acmicpc.net/problem/1181)        |    ✅     |            |           |          |    ✅   |
 | [팰린드롬수](https://www.acmicpc.net/problem/1259)        |    ✅     |            |           |          |       |
 | [영화감독 숌](https://www.acmicpc.net/problem/1436)       |    ✅     |            |           |          |       |
-| [랜선 자르기](https://www.acmicpc.net/problem/1654)       |          |            |           |          |       |
+| [랜선 자르기](https://www.acmicpc.net/problem/1654)       |    ✅      |            |           |          |       |
 | [스택 수열](https://www.acmicpc.net/problem/1874)        |          |            |           |          |       |
 | [수 찾기](https://www.acmicpc.net/problem/1920)         |          |            |           |          |       |
 | [소수 구하기](https://www.acmicpc.net/problem/1929)       |          |            |           |          |       |
