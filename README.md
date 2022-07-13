@@ -578,15 +578,15 @@
 
 |                                                      | Dltmd202 | SongSiWoon | ahnjongin | yj010306 | sa11k |
 |------------------------------------------------------|:--------:|:----------:|:---------:|:--------:|:-----:|
-| [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)    |    ✅     |      ✅      |           |          |   ✅   |
-| [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)   |    ✅     |      ✅      |           |          |   ✅    |
+| [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)    |    ✅     |      ✅      |           |    ✅     |   ✅   |
+| [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)   |    ✅     |      ✅      |           |    ✅     |   ✅    |
 | [단어 정렬](https://www.acmicpc.net/problem/1181)        |    ✅     |        ✅   |           |          |    ✅   |
 | [팰린드롬수](https://www.acmicpc.net/problem/1259)        |    ✅     |       ✅    |           |          |    ✅   |
 | [영화감독 숌](https://www.acmicpc.net/problem/1436)       |    ✅     |            |           |          |    ✅   |
 | [랜선 자르기](https://www.acmicpc.net/problem/1654)       |    ✅      |            |           |          |   ✅    |
 | [스택 수열](https://www.acmicpc.net/problem/1874)        |     ✅     |            |           |          |   ✅    |
-| [수 찾기](https://www.acmicpc.net/problem/1920)         |     ✅    |            |           |          |       |
-| [소수 구하기](https://www.acmicpc.net/problem/1929)       |    ✅    |            |           |          |       |
+| [수 찾기](https://www.acmicpc.net/problem/1920)         |     ✅    |            |           |          |     ✅   |
+| [소수 구하기](https://www.acmicpc.net/problem/1929)       |    ✅    |            |           |          |    ✅    |
 | [프린터 큐](https://www.acmicpc.net/problem/1966)        |          |            |           |          |       |
 | [소수 찾기](https://www.acmicpc.net/problem/1978)        |          |            |           |          |       |
 | [통계학](https://www.acmicpc.net/problem/2108)          |          |            |           |          |       |
