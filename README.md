@@ -578,16 +578,16 @@
 
 |                                                      | Dltmd202 | SongSiWoon | ahnjongin | yj010306 | sa11k |
 |------------------------------------------------------|:--------:|:----------:|:---------:|:--------:|:-----:|
-| [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)    |    ✅     |      ✅      |           |    ✅     |   ✅   |
+| [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)    |    ✅     |      ✅      |     ✅      |    ✅     |   ✅   |
 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)   |    ✅     |      ✅      |           |    ✅     |   ✅    |
 | [단어 정렬](https://www.acmicpc.net/problem/1181)        |    ✅     |        ✅   |           |          |    ✅   |
 | [팰린드롬수](https://www.acmicpc.net/problem/1259)        |    ✅     |       ✅    |           |          |    ✅   |
-| [영화감독 숌](https://www.acmicpc.net/problem/1436)       |    ✅     |            |           |          |    ✅   |
-| [랜선 자르기](https://www.acmicpc.net/problem/1654)       |    ✅      |            |           |          |   ✅    |
+| [영화감독 숌](https://www.acmicpc.net/problem/1436)       |    ✅     |       ✅     |           |          |    ✅   |
+| [랜선 자르기](https://www.acmicpc.net/problem/1654)       |    ✅      |      ✅      |           |          |   ✅    |
 | [스택 수열](https://www.acmicpc.net/problem/1874)        |     ✅     |            |           |          |   ✅    |
 | [수 찾기](https://www.acmicpc.net/problem/1920)         |     ✅    |            |           |          |     ✅   |
 | [소수 구하기](https://www.acmicpc.net/problem/1929)       |    ✅    |            |           |          |    ✅    |
-| [프린터 큐](https://www.acmicpc.net/problem/1966)        |          |            |           |          |       |
+| [프린터 큐](https://www.acmicpc.net/problem/1966)        |    ✅      |            |           |          |    ✅   |
 | [소수 찾기](https://www.acmicpc.net/problem/1978)        |          |            |           |          |       |
 | [통계학](https://www.acmicpc.net/problem/2108)          |          |            |           |          |       |
 | [카드2](https://www.acmicpc.net/problem/2164)          |          |            |           |          |       |
@@ -600,7 +600,7 @@
 | [나무 자르기](https://www.acmicpc.net/problem/2805)       |          |            |           |          |       |
 | [설탕 배달](https://www.acmicpc.net/problem/2839)        |          |            |           |          |       |
 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) |          |            |           |          |       |
-| [직각삼각형](https://www.acmicpc.net/problem/4153)        |          |            |           |          |       |
+| [직각삼각형](https://www.acmicpc.net/problem/4153)        |          |            |     ✅      |          |       |
 | [균형잡힌 세상](https://www.acmicpc.net/problem/4949)      |          |            |           |          |       |
 | [덩치](https://www.acmicpc.net/problem/7568)           |          |            |           |          |       |
 | [괄호](https://www.acmicpc.net/problem/9012)           |          |            |           |          |       |
