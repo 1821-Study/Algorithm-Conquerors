@@ -588,7 +588,7 @@
 | [수 찾기](https://www.acmicpc.net/problem/1920)         |     ✅    |            |           |          |     ✅   |
 | [소수 구하기](https://www.acmicpc.net/problem/1929)       |    ✅    |            |           |          |    ✅    |
 | [프린터 큐](https://www.acmicpc.net/problem/1966)        |    ✅      |            |           |          |    ✅   |
-| [소수 찾기](https://www.acmicpc.net/problem/1978)        |          |            |           |          |    ✅   |
+| [소수 찾기](https://www.acmicpc.net/problem/1978)        |    ✅      |            |           |          |    ✅   |
 | [통계학](https://www.acmicpc.net/problem/2108)          |          |            |           |          |    ✅   |
 | [카드2](https://www.acmicpc.net/problem/2164)          |          |            |           |          |       |
 | [분해합](https://www.acmicpc.net/problem/2231)          |          |            |           |          |       |
