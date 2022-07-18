@@ -593,8 +593,8 @@
 | [카드2](https://www.acmicpc.net/problem/2164)          |     ✅     |            |           |          |   ✅    |
 | [분해합](https://www.acmicpc.net/problem/2231)          |     ✅     |            |           |          |    ✅   |
 | [벌집](https://www.acmicpc.net/problem/2292)           |     ✅     |            |           |          |    ✅   |
-| [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |          |            |           |          |       |
-| [수 정렬하기 2](https://www.acmicpc.net/problem/2751)     |          |            |           |          |       |
+| [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |          |            |           |          |   ✅    |
+| [수 정렬하기 2](https://www.acmicpc.net/problem/2751)     |          |            |           |          |   ✅    |
 | [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)    |          |            |           |          |       |
 | [블랙잭](https://www.acmicpc.net/problem/2798)          |          |            |           |          |       |
 | [나무 자르기](https://www.acmicpc.net/problem/2805)       |          |            |           |          |       |
