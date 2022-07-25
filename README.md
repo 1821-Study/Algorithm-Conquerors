@@ -605,10 +605,10 @@
 | [덩치](https://www.acmicpc.net/problem/7568)           |     ✅     |            |           |          |     ✅  |
 | [괄호](https://www.acmicpc.net/problem/9012)           |     ✅     |            |           |          |     ✅  |
 | [ACM 호텔](https://www.acmicpc.net/problem/10250)      |     ✅     |            |           |          |    ✅   |
-| [제로](https://www.acmicpc.net/problem/10773)          |          |            |           |          |     ✅   |
-| [나이순 정렬](https://www.acmicpc.net/problem/10814)      |          |            |           |          |       |
-| [숫자 카드 2](https://www.acmicpc.net/problem/10816)     |          |            |           |          |       |
-| [스택](https://www.acmicpc.net/problem/10828)          |          |            |           |          |       |
+| [제로](https://www.acmicpc.net/problem/10773)          |     ✅     |            |           |          |     ✅   |
+| [나이순 정렬](https://www.acmicpc.net/problem/10814)      |    ✅      |            |           |          |       |
+| [숫자 카드 2](https://www.acmicpc.net/problem/10816)     |     ✅     |            |           |          |       |
+| [스택](https://www.acmicpc.net/problem/10828)          |     ✅     |            |           |          |       |
 | [큐](https://www.acmicpc.net/problem/10845)           |          |            |           |          |       |
 | [덱](https://www.acmicpc.net/problem/10866)           |          |            |           |          |       |
 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989)    |          |            |           |          |       |
