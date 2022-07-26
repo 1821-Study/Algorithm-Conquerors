@@ -606,7 +606,7 @@
 | [괄호](https://www.acmicpc.net/problem/9012)           |     ✅     |            |           |          |     ✅  |
 | [ACM 호텔](https://www.acmicpc.net/problem/10250)      |     ✅     |            |           |          |    ✅   |
 | [제로](https://www.acmicpc.net/problem/10773)          |     ✅     |            |           |          |     ✅   |
-| [나이순 정렬](https://www.acmicpc.net/problem/10814)      |    ✅      |            |           |          |       |
+| [나이순 정렬](https://www.acmicpc.net/problem/10814)      |    ✅      |            |           |          |  ✅    |
 | [숫자 카드 2](https://www.acmicpc.net/problem/10816)     |     ✅     |            |           |          |       |
 | [스택](https://www.acmicpc.net/problem/10828)          |     ✅     |            |           |          |       |
 | [큐](https://www.acmicpc.net/problem/10845)           |          |            |           |          |       |
