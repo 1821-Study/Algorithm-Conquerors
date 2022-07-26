@@ -582,7 +582,7 @@
 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)   |    ✅     |      ✅      |           |    ✅     |   ✅    |
 | [단어 정렬](https://www.acmicpc.net/problem/1181)        |    ✅     |        ✅   |           |    ✅     |    ✅   |
 | [팰린드롬수](https://www.acmicpc.net/problem/1259)        |    ✅     |       ✅    |           |    ✅     |    ✅   |
-| [영화감독 숌](https://www.acmicpc.net/problem/1436)       |    ✅     |       ✅     |           |          |    ✅   |
+| [영화감독 숌](https://www.acmicpc.net/problem/1436)       |    ✅     |       ✅     |           |    ✅     |    ✅   |
 | [랜선 자르기](https://www.acmicpc.net/problem/1654)       |    ✅      |      ✅      |           |          |   ✅    |
 | [스택 수열](https://www.acmicpc.net/problem/1874)        |     ✅     |            |           |          |   ✅    |
 | [수 찾기](https://www.acmicpc.net/problem/1920)         |     ✅    |            |           |          |     ✅   |
@@ -601,14 +601,14 @@
 | [설탕 배달](https://www.acmicpc.net/problem/2839)        |     ✅     |            |           |          |   ✅    |
 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) |    ✅      |            |           |          |     ✅  |
 | [직각삼각형](https://www.acmicpc.net/problem/4153)        |    ✅      |            |     ✅      |          |   ✅    |
-| [균형잡힌 세상](https://www.acmicpc.net/problem/4949)      |          |            |           |          |    ✅   |
-| [덩치](https://www.acmicpc.net/problem/7568)           |          |            |           |          |     ✅  |
-| [괄호](https://www.acmicpc.net/problem/9012)           |          |            |           |          |     ✅  |
-| [ACM 호텔](https://www.acmicpc.net/problem/10250)      |          |            |           |          |    ✅   |
-| [제로](https://www.acmicpc.net/problem/10773)          |          |            |           |          |       |
-| [나이순 정렬](https://www.acmicpc.net/problem/10814)      |          |            |           |          |       |
-| [숫자 카드 2](https://www.acmicpc.net/problem/10816)     |          |            |           |          |       |
-| [스택](https://www.acmicpc.net/problem/10828)          |          |            |           |          |       |
+| [균형잡힌 세상](https://www.acmicpc.net/problem/4949)      |    ✅      |            |           |          |    ✅   |
+| [덩치](https://www.acmicpc.net/problem/7568)           |     ✅     |            |           |          |     ✅  |
+| [괄호](https://www.acmicpc.net/problem/9012)           |     ✅     |            |           |          |     ✅  |
+| [ACM 호텔](https://www.acmicpc.net/problem/10250)      |     ✅     |            |           |          |    ✅   |
+| [제로](https://www.acmicpc.net/problem/10773)          |     ✅     |            |           |          |     ✅   |
+| [나이순 정렬](https://www.acmicpc.net/problem/10814)      |    ✅      |            |           |          |       |
+| [숫자 카드 2](https://www.acmicpc.net/problem/10816)     |     ✅     |            |           |          |       |
+| [스택](https://www.acmicpc.net/problem/10828)          |     ✅     |            |           |          |       |
 | [큐](https://www.acmicpc.net/problem/10845)           |          |            |           |          |       |
 | [덱](https://www.acmicpc.net/problem/10866)           |          |            |           |          |       |
 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989)    |          |            |           |          |       |
