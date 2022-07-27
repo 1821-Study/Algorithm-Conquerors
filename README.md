@@ -609,8 +609,8 @@
 | [나이순 정렬](https://www.acmicpc.net/problem/10814)      |    ✅      |            |           |          |  ✅    |
 | [숫자 카드 2](https://www.acmicpc.net/problem/10816)     |     ✅     |            |           |          |       |
 | [스택](https://www.acmicpc.net/problem/10828)          |     ✅     |            |           |          |       |
-| [큐](https://www.acmicpc.net/problem/10845)           |          |            |           |          |       |
-| [덱](https://www.acmicpc.net/problem/10866)           |          |            |           |          |       |
+| [큐](https://www.acmicpc.net/problem/10845)           |      ✅    |            |           |          |       |
+| [덱](https://www.acmicpc.net/problem/10866)           |     ✅     |            |           |          |       |
 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989)    |          |            |           |          |       |
 | [이항 계수 1](https://www.acmicpc.net/problem/11050)     |          |            |           |          |       |
 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650)     |          |            |           |          |       |
