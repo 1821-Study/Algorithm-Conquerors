@@ -613,7 +613,7 @@
 | [덱](https://www.acmicpc.net/problem/10866)           |     ✅     |            |           |          |    ✅   |
 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989)    |    ✅      |            |           |          |     ✅  |
 | [이항 계수 1](https://www.acmicpc.net/problem/11050)     |     ✅     |            |           |          |     ✅  |
-| [좌표 정렬하기](https://www.acmicpc.net/problem/11650)     |    ✅      |            |           |          |       |
+| [좌표 정렬하기](https://www.acmicpc.net/problem/11650)     |    ✅      |            |           |          |     ✅   |
 | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)   |    ✅      |            |           |          |       |
 | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866)   |    ✅      |            |           |          |       |
 | [Hashing](https://www.acmicpc.net/problem/15829)     |      ✅    |            |           |          |       |
